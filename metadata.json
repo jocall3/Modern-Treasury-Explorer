@@ -1,0 +1,5 @@
+{
+  "name": "Modern Treasury Explorer",
+  "description": "An AI-powered dashboard for exploring and interacting with the Modern Treasury API specification, featuring schema visualization and an intelligent payment composer.",
+  "requestFramePermissions": []
+}
